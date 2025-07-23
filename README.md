@@ -44,6 +44,7 @@
 ---
 
 ##  Project Structure
+```
 nool/
 ├── client/                 # React frontend
 │   ├── components/         # Shared UI components
@@ -54,6 +55,7 @@ nool/
 │   ├── agent/              # LangChain logic
 │   └── main.py             # Entry point
 └── docs/                   # Architecture, prompts, roadmap
+```
 
 ---
 
