@@ -33,16 +33,6 @@
 
 ---
 
-##  MVP Goals
-
-- [x] Google sign-in and token handling
-- [x] Display Calendar and YouTube data in dashboard
-- [x] Build LangChain-powered assistant over user content
-- [ ] Add persistent vector-based memory for personalization
-- [ ] Polish plugin system and modular UI
-
----
-
 ##  Project Structure
 ```
 nool/
