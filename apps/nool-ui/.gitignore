@@ -1,0 +1,50 @@
+# React + TypeScript project .gitignore
+
+# dependencies
+/node_modules
+
+# production
+/dist
+/dist-ssr
+
+# misc
+.env
+.env.*.local
+*.local
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+logs
+*.log
+
+# IDEs and editors
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+
+# testing
+/coverage
+
+# typescript
+*.tsbuildinfo
+
+# OS system files
+Thumbs.db
+ehthumbs.db
+*.sln
+*.sw?
+
+# testing
+/coverage
+
+# typescript
+*.tsbuildinfo
+
+# optional: macOS/Linux system files
+Thumbs.db
+ehthumbs.db
